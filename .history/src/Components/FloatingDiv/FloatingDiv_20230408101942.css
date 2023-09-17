@@ -1,0 +1,6 @@
+.foatingdiv {
+  justify-content: space-around;
+  display: flex;
+  background-color: white;
+  box-shadow: var(--boxShadow);
+}
